@@ -1,4 +1,4 @@
-A total of 7 Red-Eyes support cards made by Beil196/livmorgan and scripted/revised by me (XAX4). The effects are 95% as they worded them and are not made for balance. Enjoy.
+A total of 21 Red-Eyes support cards made by Beil196/livmorgan and scripted/revised by me (XAX4). The effects are 95% as they worded them and are not made for balance. Enjoy.
 
 Included cards:
   Red-Eyes Shadow Lord (livmorgan)
