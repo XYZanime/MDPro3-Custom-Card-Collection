@@ -2,8 +2,6 @@ A large collection of all of my custom projects for MDPro3, with hopefully many 
 
 Will update this at the start of each month to keep anyone paying attention to it up to date.
 
-September:
+October:
 
-    1.) Added V1.0 of PREJ (Red-Eyes focused)
-    2.) Added V1.1 of PREJ (Red-Eyes focused)
-    3.) Added V1.2 of PREJ (Flame Swordsman focused)
+    10/7/2026 - Added V1.0 of the Pokemon Deck
